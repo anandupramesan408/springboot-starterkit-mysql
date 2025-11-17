@@ -1,4 +1,4 @@
-# our base build image
+## our base build image
 FROM maven:3.6.0-jdk-8 as maven
 
 # copy the project files
